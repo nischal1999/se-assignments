@@ -1,4 +1,4 @@
-package com.miu.cs.cs425.demowebapps.sanilelibrary;
+package com.miu.cs.cs425.demowebapps.nischalelibrary;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
