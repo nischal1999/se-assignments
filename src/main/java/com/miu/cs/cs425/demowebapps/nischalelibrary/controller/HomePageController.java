@@ -1,4 +1,4 @@
-package com.miu.cs.cs425.demowebapps.sanilelibrary.controller;
+package com.miu.cs.cs425.demowebapps.nischalelibrary.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

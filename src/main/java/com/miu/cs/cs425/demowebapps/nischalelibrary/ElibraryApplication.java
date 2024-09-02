@@ -1,4 +1,4 @@
-package com.miu.cs.cs425.demowebapps.sanilelibrary;
+package com.miu.cs.cs425.demowebapps.nischalelibrary;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
